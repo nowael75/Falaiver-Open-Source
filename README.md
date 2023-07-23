@@ -1,6 +1,8 @@
 Comment configurer ce script pour qu'il fonctionne avec votre bot ?
 
-ETAPE 1 :Pour commencez telecharger le fichier zip et installer python sur votre ordinateur et ajouter bien path dans la configuration de python.
+ETAPE 0 : Lire le fichier cgu.md avant de commencer
+
+ETAPE 1 :Ensuite vous pouvez commencer par telecharger le fichier zip et installer python sur votre ordinateur et ajouter bien path dans la configuration de python.
 
 ETAPE 2 : Rendez vous sur le terminal et rentrez cette commande : pip install py-cord asyncio
 
